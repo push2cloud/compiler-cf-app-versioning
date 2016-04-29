@@ -17,7 +17,7 @@
     "Michael Erne <michael.erne@gmail.com> (https://github.com/michaelerne)"
   ],
   "license": "Apache-2.0",
-  "repository": "push2cloud/compiler-cf-app-connections",
+  "repository": "push2cloud/compiler-cf-app-versioning",
   "homepage": "http://push2.cloud/",
   "devDependencies": {
     "eslint": "2.8.0"
